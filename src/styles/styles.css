@@ -196,3 +196,12 @@ h2 {
     color: var(--color-grey);
     margin-top: 19px;
 }
+
+.benefits {
+    padding: 100px 0;
+    background-color: var(--color-light-grey);
+}
+
+.benefits__container {
+    padding: 0 100px;
+}
